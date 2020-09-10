@@ -1,5 +1,5 @@
 # springBootExample
-스프링부트 스터디 입니다.
+스프링부트 스터디1(맛보기: springBoot시작하기, mysql 연동, jpa설정) 입니다.
 
 ## 개발환경
 ### Springboot + Gradle
