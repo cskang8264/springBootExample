@@ -2,7 +2,7 @@
 스프링부트 스터디 입니다.
 
 ## 개발환경
-### Springboot 
+### Springboot + Gradle
 - Spring Web : 웹 개발에 필요한 스타터 제공 
 - Thymeleaf : SpringBoot에서 권장하는 서버사이드 렌더링 템플릿 엔진(순수 html 문서에 html5문법으로 서버사이드 로직을 수행가능케 함, 기존의 JPA사용법과 유사) 
   [참고사이트](https://cyberx.tistory.com/132)
